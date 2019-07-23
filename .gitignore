@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/publish
+/config.js
+/.idea
+/.sass-cache
+*log
+**/.DS_Store
